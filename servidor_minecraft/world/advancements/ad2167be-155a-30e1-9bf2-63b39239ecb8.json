@@ -1407,6 +1407,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "peridot": "2024-12-18 19:21:29 +0000",
       "amber": "2024-12-18 18:31:39 +0000"
     },
     "done": false

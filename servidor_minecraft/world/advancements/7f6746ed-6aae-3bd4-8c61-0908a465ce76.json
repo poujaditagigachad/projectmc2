@@ -1640,6 +1640,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-18 19:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
@@ -3530,6 +3536,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "craft": "2024-12-18 19:14:35 +0000"
     },
     "done": true
   },
