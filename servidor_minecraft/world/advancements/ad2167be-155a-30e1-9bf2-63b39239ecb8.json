@@ -745,8 +745,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-18 18:42:58 +0000",
       "maple_woods": "2024-12-18 17:49:21 +0000",
       "coniferous_forest": "2024-12-18 17:52:27 +0000",
+      "cherry_blossom_grove": "2024-12-18 18:42:30 +0000",
       "gravel_beach": "2024-12-18 18:00:07 +0000"
     },
     "done": false
@@ -3262,6 +3264,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 18:40:48 +0000"
     },
     "done": true
   },
