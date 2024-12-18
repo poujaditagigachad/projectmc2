@@ -997,6 +997,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-18 19:34:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/willow_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:41:14 +0000"
