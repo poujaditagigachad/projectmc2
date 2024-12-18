@@ -969,7 +969,8 @@
     "criteria": {
       "skeleton": "2024-12-18 18:37:51 +0000",
       "zombie": "2024-12-18 18:37:40 +0000",
-      "spider": "2024-12-18 18:40:18 +0000"
+      "spider": "2024-12-18 18:40:18 +0000",
+      "creeper": "2024-12-18 19:04:23 +0000"
     },
     "done": false
   },
@@ -1186,6 +1187,12 @@
   "sereneseasons:recipes/redstone/season_sensor": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwistedarmor": {
+    "criteria": {
+      "advtwistedarmor": "2024-12-18 18:54:04 +0000"
     },
     "done": true
   },
@@ -1786,6 +1793,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-18 17:47:29 +0000",
+      "plains": "2024-12-18 19:04:30 +0000",
       "taiga": "2024-12-18 18:42:17 +0000",
       "taiga_cold": "2024-12-18 18:37:38 +0000",
       "ocean": "2024-12-18 18:07:21 +0000",
@@ -4255,6 +4263,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-18 18:59:24 +0000"
     },
     "done": true
   },
