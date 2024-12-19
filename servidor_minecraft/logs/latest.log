@@ -8165,3 +8165,9 @@
 [01:18:04] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedureToxinProcedure:executeProcedure:36]: Failed to load dependency sourceentity for procedure ToxinProcedure!
 [01:18:04] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedurePurifyingProcedure:executeProcedure:34]: Failed to load dependency sourceentity for procedure PurifyingProcedure!
 [01:18:04] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedureClumsinessProcedure:executeProcedure:35]: Failed to load dependency sourceentity for procedure ClumsinessProcedure!
+[01:26:44] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedureCrushProcedure:executeProcedure:35]: Failed to load dependency sourceentity for procedure CrushProcedure!
+[01:26:44] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedureThorStrikeProcedure:executeProcedure:35]: Failed to load dependency sourceentity for procedure ThorStrikeProcedure!
+[01:26:44] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedureDeepImpactProcedure:executeProcedure:38]: Failed to load dependency sourceentity for procedure DeepImpactProcedure!
+[01:26:44] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedureToxinProcedure:executeProcedure:36]: Failed to load dependency sourceentity for procedure ToxinProcedure!
+[01:26:44] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedurePurifyingProcedure:executeProcedure:34]: Failed to load dependency sourceentity for procedure PurifyingProcedure!
+[01:26:44] [Server thread/INFO] [STDERR]: [net.mcreator.useless_sword.procedure.ProcedureClumsinessProcedure:executeProcedure:35]: Failed to load dependency sourceentity for procedure ClumsinessProcedure!
