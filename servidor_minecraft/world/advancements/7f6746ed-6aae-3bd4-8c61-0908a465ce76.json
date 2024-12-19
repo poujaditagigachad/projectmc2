@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-18 23:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
@@ -995,6 +1001,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-18 23:11:03 +0000"
     },
     "done": true
   },
@@ -1400,6 +1412,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "peridot": "2024-12-18 23:31:06 +0000",
+      "amber": "2024-12-18 23:30:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
@@ -1685,6 +1704,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advpestilentpart": {
+    "criteria": {
+      "advpestilentpart": "2024-12-18 22:38:19 +0000"
     },
     "done": true
   },
@@ -3428,6 +3453,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:47:29 +0000"
+    },
+    "done": true
+  },
+  "sparkshammers:crafting_table": {
+    "criteria": {
+      "craft": "2024-12-18 23:16:48 +0000"
     },
     "done": true
   },

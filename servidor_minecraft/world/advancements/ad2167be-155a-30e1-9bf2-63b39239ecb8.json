@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2024-12-18 22:33:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:41:14 +0000"
@@ -746,7 +752,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-18 18:42:58 +0000",
+      "chaparral": "2024-12-18 20:32:19 +0000",
       "maple_woods": "2024-12-18 17:49:21 +0000",
+      "coral_reef": "2024-12-18 20:29:20 +0000",
       "coniferous_forest": "2024-12-18 17:52:27 +0000",
       "cherry_blossom_grove": "2024-12-18 18:42:30 +0000",
       "gravel_beach": "2024-12-18 18:00:07 +0000"
@@ -810,6 +818,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_the_recipe": "2024-12-18 17:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-18 22:16:57 +0000"
     },
     "done": true
   },
@@ -1823,11 +1837,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-18 17:46:46 +0000",
+      "beaches": "2024-12-18 20:32:20 +0000",
       "plains": "2024-12-18 19:05:32 +0000",
       "redwood_taiga": "2024-12-18 19:04:12 +0000",
       "taiga": "2024-12-18 19:03:40 +0000",
       "taiga_hills": "2024-12-18 19:04:45 +0000",
+      "taiga_cold": "2024-12-18 20:32:26 +0000",
       "ocean": "2024-12-18 18:01:00 +0000",
+      "cold_beach": "2024-12-18 20:32:27 +0000",
       "river": "2024-12-18 17:41:14 +0000"
     },
     "done": false
@@ -2639,8 +2656,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-18 19:29:14 +0000",
+      "cooked_mutton": "2024-12-18 22:49:26 +0000",
       "cooked_beef": "2024-12-18 17:53:03 +0000",
       "apple": "2024-12-18 17:48:12 +0000",
+      "rotten_flesh": "2024-12-18 22:40:51 +0000",
       "cooked_chicken": "2024-12-18 19:13:30 +0000"
     },
     "done": false
